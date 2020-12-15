@@ -1,0 +1,19 @@
+# ~ .gitignore for project using python with jupyter notebook
+
+# macOS DS_Store
+*.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$.py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
