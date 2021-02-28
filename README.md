@@ -42,6 +42,13 @@ Run the following to list the kernels available to Jupyter:
 jupyter kernelspec list
 ```
 
+## Removing environment
+
+Run the following command to remove an environment:
+```bash
+conda remove --name [name environment] --all
+```
+
 ## Removing Jupyter Kernel
 
 Run the following to remove a kernel from Jupyter:
